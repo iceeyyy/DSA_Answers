@@ -84,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/iceeyyy/DSA_Answers/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/iceeyyy/DSA_Answers/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/iceeyyy/DSA_Answers/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
