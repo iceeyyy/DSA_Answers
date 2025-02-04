@@ -15,8 +15,9 @@ public:
         if(node==NULL){
             return true;
         }
-        if(node->val>=maxval || node->val<=minval) return false;
         int v=node->val;
+        if(v>=maxval || v<=minval) return false;
+        
         return check(node->left,minval,v) && check(node->right,v,maxval);
     }
     bool isValidBST(TreeNode* root) {
