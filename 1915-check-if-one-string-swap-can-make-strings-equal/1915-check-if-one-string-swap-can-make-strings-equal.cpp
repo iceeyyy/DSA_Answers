@@ -9,12 +9,10 @@ public:
         }
         if (diffI.size() > 2) return false; 
     }
-
     if (diffI.size() == 0) return true;  
-    if (diffI.size() == 1) return false; 
-
-   
-    int i = diffI[0], j = diffI[1];
+    if (diffI.size() == 1) return false;
+    int i = diffI[0];
+    int j = diffI[1];
     return (s1[i] == s2[j] && s1[j] == s2[i]);
     }
 };
