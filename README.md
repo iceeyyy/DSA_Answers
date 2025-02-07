@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1364-tuple-with-same-product](https://github.com/iceeyyy/DSA_Answers/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/iceeyyy/DSA_Answers/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iceeyyy/DSA_Answers/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2350-find-closest-number-to-zero](https://github.com/iceeyyy/DSA_Answers/tree/master/2350-find-closest-number-to-zero) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/iceeyyy/DSA_Answers/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iceeyyy/DSA_Answers/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Backtracking
 |  |
 | ------- |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/iceeyyy/DSA_Answers/tree/master/0173-binary-search-tree-iterator) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iceeyyy/DSA_Answers/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
