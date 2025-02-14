@@ -11,7 +11,7 @@ public:
 
 int findCircleNum(vector<vector<int>>& isConnected) {
     int n = isConnected.size();
-    vector<int> adj[n];  // Fix: Use an array of vectors for adjacency list
+    vector<int> adj[n];  
 
     // Creating adjacency list from adjacency matrix
     for (int i = 0; i < n; i++) {
