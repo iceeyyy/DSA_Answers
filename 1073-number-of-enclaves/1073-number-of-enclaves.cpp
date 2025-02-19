@@ -1,6 +1,7 @@
 class Solution {
 public:
     void dfs(int row,int col,vector<vector<int>>& vis,vector<vector<int>>& grid,int drow[],int dcol[]){
+        //To solve the memory limit exceeded error, I passed the grid as a reference, which stopped the making of unnecessary copies of the grid.
         vis[row][col]=1;
 
         int n=grid.size();
