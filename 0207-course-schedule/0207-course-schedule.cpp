@@ -21,12 +21,13 @@ public:
         while(!q.empty()){
             int node=q.front();
             q.pop();
-            topo.push_back(node);
+            
 
             for(auto it:adjList[node]){
                 inDegr[it]--;
                 if(inDegr[it]==0) q.push(it);
             }
+            topo.push_back(node);
         }
 
         if(topo.size()==numCourses) return true;
