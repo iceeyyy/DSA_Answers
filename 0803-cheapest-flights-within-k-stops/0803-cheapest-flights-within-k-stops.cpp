@@ -12,16 +12,16 @@ public:
         }
         vector<int> price(n,INT_MAX);
         price[src]=0;
-        priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>> pq;
+        queue<pair<int,pair<int,int>>> pq;
         //{stops,{price,node}}
         pq.push({0,{0,src}});
 
         while(!pq.empty()){
-            int Stops=pq.top().first;
-            int pricee=pq.top().second.first;
-            int node=pq.top().second.second;
+            int Stops=pq.front().first;
+            int pricee=pq.front().second.first;
+            int node=pq.front().second.second;
             pq.pop();
-           
+            //if stops are more than k then skip that path
             if( Stops> k){
                 continue;
             }
