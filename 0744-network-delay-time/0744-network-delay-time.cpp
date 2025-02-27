@@ -9,16 +9,17 @@ public:
             adj[s].push_back({d,delay});
         }
         vector<int> del(n+1,INT_MAX);
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+        queue<pair<int,int>> pq;
 
         del[k]=0;
         //{time,delay,node}
         pq.push({0,k});
+
         int minTime=0;
 
         while(!pq.empty()){
-            int delay=pq.top().first;
-            int node=pq.top().second;
+            int delay=pq.front().first;
+            int node=pq.front().second;
             pq.pop();
             for(auto it : adj[node]){
                 int nNode=it.first;
