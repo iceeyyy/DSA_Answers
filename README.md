@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/iceeyyy/DSA_Answers/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iceeyyy/DSA_Answers/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/iceeyyy/DSA_Answers/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/iceeyyy/DSA_Answers/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/iceeyyy/DSA_Answers/tree/master/0801-is-graph-bipartite) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/iceeyyy/DSA_Answers/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iceeyyy/DSA_Answers/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/iceeyyy/DSA_Answers/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/iceeyyy/DSA_Answers/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/iceeyyy/DSA_Answers/tree/master/0801-is-graph-bipartite) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/iceeyyy/DSA_Answers/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0215-kth-largest-element-in-an-array) |
 | [0542-01-matrix](https://github.com/iceeyyy/DSA_Answers/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/iceeyyy/DSA_Answers/tree/master/0733-flood-fill) |
 | [1019-squares-of-a-sorted-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/iceeyyy/DSA_Answers/tree/master/1036-rotting-oranges) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/iceeyyy/DSA_Answers/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/iceeyyy/DSA_Answers/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/iceeyyy/DSA_Answers/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/iceeyyy/DSA_Answers/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/iceeyyy/DSA_Answers/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/iceeyyy/DSA_Answers/tree/master/1753-path-with-minimum-effort) |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/iceeyyy/DSA_Answers/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/iceeyyy/DSA_Answers/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/iceeyyy/DSA_Answers/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/iceeyyy/DSA_Answers/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/iceeyyy/DSA_Answers/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/iceeyyy/DSA_Answers/tree/master/1073-number-of-enclaves) |
