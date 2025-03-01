@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/iceeyyy/DSA_Answers/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/iceeyyy/DSA_Answers/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/iceeyyy/DSA_Answers/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/iceeyyy/DSA_Answers/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0215-kth-largest-element-in-an-array) |
 | [0542-01-matrix](https://github.com/iceeyyy/DSA_Answers/tree/master/0542-01-matrix) |
@@ -224,11 +225,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/iceeyyy/DSA_Answers/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iceeyyy/DSA_Answers/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1019-squares-of-a-sorted-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/iceeyyy/DSA_Answers/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/iceeyyy/DSA_Answers/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/iceeyyy/DSA_Answers/tree/master/0367-valid-perfect-square) |
 | [1753-path-with-minimum-effort](https://github.com/iceeyyy/DSA_Answers/tree/master/1753-path-with-minimum-effort) |
