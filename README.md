@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/iceeyyy/DSA_Answers/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iceeyyy/DSA_Answers/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/iceeyyy/DSA_Answers/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/iceeyyy/DSA_Answers/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/iceeyyy/DSA_Answers/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iceeyyy/DSA_Answers/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/iceeyyy/DSA_Answers/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/iceeyyy/DSA_Answers/tree/master/1036-rotting-oranges) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/iceeyyy/DSA_Answers/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/iceeyyy/DSA_Answers/tree/master/0733-flood-fill) |
+| [0854-making-a-large-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0854-making-a-large-island) |
 | [1019-squares-of-a-sorted-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/iceeyyy/DSA_Answers/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/iceeyyy/DSA_Answers/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/iceeyyy/DSA_Answers/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/iceeyyy/DSA_Answers/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/iceeyyy/DSA_Answers/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/iceeyyy/DSA_Answers/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/iceeyyy/DSA_Answers/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/iceeyyy/DSA_Answers/tree/master/0733-flood-fill) |
+| [0854-making-a-large-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/iceeyyy/DSA_Answers/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/iceeyyy/DSA_Answers/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/iceeyyy/DSA_Answers/tree/master/1171-shortest-path-in-binary-matrix) |
