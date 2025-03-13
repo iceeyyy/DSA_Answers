@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/iceeyyy/DSA_Answers/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/iceeyyy/DSA_Answers/tree/master/1073-number-of-enclaves) |
+| [1127-last-stone-weight](https://github.com/iceeyyy/DSA_Answers/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/iceeyyy/DSA_Answers/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1364-tuple-with-same-product](https://github.com/iceeyyy/DSA_Answers/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/iceeyyy/DSA_Answers/tree/master/1477-product-of-the-last-k-numbers) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0215-kth-largest-element-in-an-array) |
 | [0744-network-delay-time](https://github.com/iceeyyy/DSA_Answers/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iceeyyy/DSA_Answers/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1127-last-stone-weight](https://github.com/iceeyyy/DSA_Answers/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/iceeyyy/DSA_Answers/tree/master/1753-path-with-minimum-effort) |
 | [2434-design-a-number-container-system](https://github.com/iceeyyy/DSA_Answers/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
