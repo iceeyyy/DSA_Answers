@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/iceeyyy/DSA_Answers/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/iceeyyy/DSA_Answers/tree/master/0721-accounts-merge) |
+| [1014-k-closest-points-to-origin](https://github.com/iceeyyy/DSA_Answers/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/iceeyyy/DSA_Answers/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/iceeyyy/DSA_Answers/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0854-making-a-large-island) |
+| [1014-k-closest-points-to-origin](https://github.com/iceeyyy/DSA_Answers/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/iceeyyy/DSA_Answers/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/iceeyyy/DSA_Answers/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/iceeyyy/DSA_Answers/tree/master/1014-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/iceeyyy/DSA_Answers/tree/master/0367-valid-perfect-square) |
+| [1014-k-closest-points-to-origin](https://github.com/iceeyyy/DSA_Answers/tree/master/1014-k-closest-points-to-origin) |
 | [1477-product-of-the-last-k-numbers](https://github.com/iceeyyy/DSA_Answers/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/iceeyyy/DSA_Answers/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/iceeyyy/DSA_Answers/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/iceeyyy/DSA_Answers/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/iceeyyy/DSA_Answers/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iceeyyy/DSA_Answers/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1014-k-closest-points-to-origin](https://github.com/iceeyyy/DSA_Answers/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/iceeyyy/DSA_Answers/tree/master/1127-last-stone-weight) |
 | [1753-path-with-minimum-effort](https://github.com/iceeyyy/DSA_Answers/tree/master/1753-path-with-minimum-effort) |
 | [2434-design-a-number-container-system](https://github.com/iceeyyy/DSA_Answers/tree/master/2434-design-a-number-container-system) |
@@ -359,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/iceeyyy/DSA_Answers/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/iceeyyy/DSA_Answers/tree/master/1014-k-closest-points-to-origin) |
 ## Union Find
 |  |
 | ------- |
@@ -440,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/iceeyyy/DSA_Answers/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/iceeyyy/DSA_Answers/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
