@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/iceeyyy/DSA_Answers/tree/master/0127-word-ladder) |
+| [0217-contains-duplicate](https://github.com/iceeyyy/DSA_Answers/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/iceeyyy/DSA_Answers/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/iceeyyy/DSA_Answers/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/iceeyyy/DSA_Answers/tree/master/0621-task-scheduler) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/iceeyyy/DSA_Answers/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/iceeyyy/DSA_Answers/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/iceeyyy/DSA_Answers/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/iceeyyy/DSA_Answers/tree/master/0621-task-scheduler) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iceeyyy/DSA_Answers/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/iceeyyy/DSA_Answers/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/iceeyyy/DSA_Answers/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/iceeyyy/DSA_Answers/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/iceeyyy/DSA_Answers/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/iceeyyy/DSA_Answers/tree/master/0485-max-consecutive-ones) |
