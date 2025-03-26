@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/iceeyyy/DSA_Answers/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/iceeyyy/DSA_Answers/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/iceeyyy/DSA_Answers/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/iceeyyy/DSA_Answers/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/iceeyyy/DSA_Answers/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
