@@ -9,12 +9,14 @@ public:
         return true;
     }
     void help(int ind,string& s,vector<vector<string>>& ans,vector<string>& ds){
+        //base case if ind reaches the end eg. aa -> a|a| last bar represents the last partition possible for checking the last char to be a palindrome or not
         if(ind==s.length()){
             ans.push_back(ds);
             return;
         }
         for(int i=ind;i<s.size();i++){
             if(ispalin(s,ind,i)){
+                //only consider it a substring if it is palindrome
                 ds.push_back(s.substr(ind,i-ind+1));
                 help(i+1,s,ans,ds);
                 ds.pop_back();
