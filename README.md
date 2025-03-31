@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/iceeyyy/DSA_Answers/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/0099-recover-binary-search-tree) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/iceeyyy/DSA_Answers/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/iceeyyy/DSA_Answers/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/iceeyyy/DSA_Answers/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/iceeyyy/DSA_Answers/tree/master/0130-surrounded-regions) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/iceeyyy/DSA_Answers/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/iceeyyy/DSA_Answers/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/iceeyyy/DSA_Answers/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/iceeyyy/DSA_Answers/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/iceeyyy/DSA_Answers/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/iceeyyy/DSA_Answers/tree/master/0216-combination-sum-iii) |
 | [1160-letter-tile-possibilities](https://github.com/iceeyyy/DSA_Answers/tree/master/1160-letter-tile-possibilities) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iceeyyy/DSA_Answers/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/iceeyyy/DSA_Answers/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/iceeyyy/DSA_Answers/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/iceeyyy/DSA_Answers/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/iceeyyy/DSA_Answers/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/iceeyyy/DSA_Answers/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/iceeyyy/DSA_Answers/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/iceeyyy/DSA_Answers/tree/master/0542-01-matrix) |
