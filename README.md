@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/iceeyyy/DSA_Answers/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/iceeyyy/DSA_Answers/tree/master/0347-top-k-frequent-elements) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/iceeyyy/DSA_Answers/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/iceeyyy/DSA_Answers/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/iceeyyy/DSA_Answers/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/iceeyyy/DSA_Answers/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/iceeyyy/DSA_Answers/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/iceeyyy/DSA_Answers/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/iceeyyy/DSA_Answers/tree/master/0079-word-search) |
