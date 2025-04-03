@@ -1,13 +1,13 @@
 class Solution {
 public:
-   // this solution generates a TLE 
+   // this solution is optimized using memoization 
     int dfs(int row,int col,int m,int n,vector<vector<int>>& dp){
         //if it reaches the desired position
         if(row==m-1 && col==n-1){
             return 1;
         }
         // we need to return 0 if robot goes out of bonds
-        if(row>=m ||  col>=n ) return 0;
+        if(row>=m || row<0 || col>=n || col<0) return 0;
         
         if(dp[row][col]!=-1) return dp[row][col]; //it means it is already calculated 
         
