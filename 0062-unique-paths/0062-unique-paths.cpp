@@ -18,7 +18,7 @@ public:
         return dp[row][col]=l+r;
     }
     int uniquePaths(int m, int n) {
-        //using a visited array for marking cells as visited 
+        //using a vector for applying memoization
         vector<vector<int>> dp(m,vector<int> (n,-1));
         
         return dfs(0,0,m,n,dp);
