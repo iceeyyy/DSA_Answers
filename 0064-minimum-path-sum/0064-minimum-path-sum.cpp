@@ -9,7 +9,7 @@ public:
             return 1e6;
         }
         //if it reaches the desired index (Base Case 2)
-        if(row==n-1 & col==m-1){
+        if(row==n-1 && col==m-1){
             return grid[n-1][m-1];
         }
         if(dp[row][col]!=-1) return dp[row][col];
