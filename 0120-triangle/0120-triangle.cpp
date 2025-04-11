@@ -1,8 +1,8 @@
 class Solution {
 public:
     int minimumTotal(vector<vector<int>>& triangle) {
+        //tabulized solution
         int n=triangle.size();
-
         vector<vector<int>> dp(n,vector<int> (n));
 
         for(int i=0;i<n;i++){
