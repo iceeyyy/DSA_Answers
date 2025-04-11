@@ -1,32 +1,37 @@
 class Solution {
 public:
-    int solve(int row,int col,vector<vector<int>>& obstacleGrid,vector<vector<int>>& dp){
-        int n=obstacleGrid.size();
-        int m=obstacleGrid[0].size();
-        //out of bonds
-        if(row>=n || col>=m){
-            return 0;
-        }
-        //obstacle is present in the path so it is not possible
-        if(obstacleGrid[row][col]==1) return 0;
-
-        //destination reachead 
-        if((row==n-1) && (col==m-1)){
-            return 1;
-        }
-        if(dp[row][col]!=-1) return dp[row][col];
-        
-        int r=solve(row,col+1,obstacleGrid,dp); //moving right
-        int b=solve(row+1,col,obstacleGrid,dp); //moving bottom
-
-        return dp[row][col]=r+b;
-    }
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
+        //tabulized solution
         int n=obstacleGrid.size();
         int m=obstacleGrid[0].size();
+        vector<vector<int>> dp(n,vector<int> (m));
 
-        vector<vector<int>> dp(n,vector<int> (m,-1));
-
-        return solve(0,0,obstacleGrid,dp);
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(obstacleGrid[i][j]==1){
+                    //if there's an obstacle on the grid (Base Case)
+                    dp[i][j]=0;
+                }
+                else if(i==0 && j==0){
+                    //Base Case 
+                    dp[i][j]=1;
+                }
+                
+                else{
+                    //if it goes out of bonds it will return 0 
+                    int bottom =0;
+                    int right=0;
+                    if(i>0){
+                        //going bottom
+                        bottom=dp[i-1][j];
+                    }
+                    if(j>0){
+                        right=dp[i][j-1];
+                    }
+                    dp[i][j]=bottom+right;
+                }
+            }
+        }
+        return dp[n-1][m-1];
     }
 };
