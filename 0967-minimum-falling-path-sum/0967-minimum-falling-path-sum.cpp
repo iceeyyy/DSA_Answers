@@ -31,6 +31,8 @@ public:
                 }
                 //if it is out of bonds
                 else{
+                    // the reason why we add 1e6 is that when we go out of bonds we want our calculated value to be very big so that it is excluded when consider the 
+                    // minimum value for our dp vector
                     bottomLeft+=1e6;
                 }
                 //checking for out of bonds 
