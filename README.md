@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/iceeyyy/DSA_Answers/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/iceeyyy/DSA_Answers/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/iceeyyy/DSA_Answers/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iceeyyy/DSA_Answers/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iceeyyy/DSA_Answers/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/iceeyyy/DSA_Answers/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/iceeyyy/DSA_Answers/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/iceeyyy/DSA_Answers/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/iceeyyy/DSA_Answers/tree/master/0643-maximum-average-subarray-i) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/iceeyyy/DSA_Answers/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/iceeyyy/DSA_Answers/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/iceeyyy/DSA_Answers/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/iceeyyy/DSA_Answers/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/iceeyyy/DSA_Answers/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/iceeyyy/DSA_Answers/tree/master/2802-find-the-punishment-number-of-an-integer) |
