@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/iceeyyy/DSA_Answers/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/iceeyyy/DSA_Answers/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/iceeyyy/DSA_Answers/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Hash Table
 |  |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/iceeyyy/DSA_Answers/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/iceeyyy/DSA_Answers/tree/master/1297-maximum-number-of-balloons) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/iceeyyy/DSA_Answers/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/iceeyyy/DSA_Answers/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/iceeyyy/DSA_Answers/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/3447-clear-digits) |
