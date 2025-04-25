@@ -5,7 +5,7 @@ public:
         if(i==s.length() && j<p.length()){
             // if j still has elements to compare it and i has completed all of it's comparisons 
             //all the characters of p must be *
-            for(int ii=j;ii<p.length();ii++){
+            for(int ii=j; ii<p.length(); ii++){
                 if(p[ii]!='*'){
                     return 0;
                 }
@@ -14,10 +14,12 @@ public:
         }
         //Base Case 2
         if(i<s.length() && j==p.length()){
+            // i still has to do comparisons and b is exhausted
             return 0;
         }
         //Base Case 3
         if(i==s.length() && j==p.length()){
+            // both of the strings are exhausted means all comparisons are succesfull
             return 1;
         }
         //memoization Check
@@ -28,6 +30,7 @@ public:
         }
 
         if(p[j]=='*'){
+            // we can make it equal to sequence of length 0 to 1, 2, ,3 ....
             return dp[i][j]=solve(i+1,j,s,p,dp) || solve(i,j+1,s,p,dp);
         }
 
