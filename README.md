@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/iceeyyy/DSA_Answers/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/iceeyyy/DSA_Answers/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/iceeyyy/DSA_Answers/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/iceeyyy/DSA_Answers/tree/master/0062-unique-paths) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iceeyyy/DSA_Answers/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/iceeyyy/DSA_Answers/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/iceeyyy/DSA_Answers/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/iceeyyy/DSA_Answers/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/iceeyyy/DSA_Answers/tree/master/0115-distinct-subsequences) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/iceeyyy/DSA_Answers/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/iceeyyy/DSA_Answers/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/iceeyyy/DSA_Answers/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/iceeyyy/DSA_Answers/tree/master/0876-hand-of-straights) |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/iceeyyy/DSA_Answers/tree/master/0044-wildcard-matching) |
 | [1013-fibonacci-number](https://github.com/iceeyyy/DSA_Answers/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/iceeyyy/DSA_Answers/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
