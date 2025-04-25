@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/iceeyyy/DSA_Answers/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/iceeyyy/DSA_Answers/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/iceeyyy/DSA_Answers/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0416-partition-equal-subset-sum) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/iceeyyy/DSA_Answers/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/iceeyyy/DSA_Answers/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/iceeyyy/DSA_Answers/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/iceeyyy/DSA_Answers/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/iceeyyy/DSA_Answers/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iceeyyy/DSA_Answers/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iceeyyy/DSA_Answers/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/iceeyyy/DSA_Answers/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/iceeyyy/DSA_Answers/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iceeyyy/DSA_Answers/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/iceeyyy/DSA_Answers/tree/master/1753-path-with-minimum-effort) |
