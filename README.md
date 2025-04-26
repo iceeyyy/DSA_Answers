@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iceeyyy/DSA_Answers/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0040-combination-sum-ii) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iceeyyy/DSA_Answers/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iceeyyy/DSA_Answers/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iceeyyy/DSA_Answers/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iceeyyy/DSA_Answers/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/iceeyyy/DSA_Answers/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/iceeyyy/DSA_Answers/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/iceeyyy/DSA_Answers/tree/master/0621-task-scheduler) |
