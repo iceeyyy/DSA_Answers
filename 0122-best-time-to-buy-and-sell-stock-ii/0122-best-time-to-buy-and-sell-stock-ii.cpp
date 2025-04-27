@@ -1,12 +1,14 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        //Tabulation Solution for better space complexity
+        //Tabulation Solution with space optimization
         int n=prices.size();
 
-        vector<vector<int>> dp(n+1,vector<int> (2,0));
+        vector<int> prev(2,0);
+        vector<int> cur(2,0);
+        
         //base Case
-        dp[n][0]=dp[n][1]=0;
+        prev[0]=prev[1]=0;
 
         for(int ind=n-1;ind>=0;ind--){
             for(int buy=0;buy<2;buy++){
@@ -14,22 +16,23 @@ public:
 
               if(buy){
                //even if we are allowed to buy we have two possibilites we can buy or not
-              int Buy=-prices[ind]+dp[ind+1][0];
-              int Notbuy=0+dp[ind+1][1];
+              int Buy=-prices[ind]+prev[0];
+              int Notbuy=0+prev[1];
               Profit=max(Buy,Notbuy);
             }
 
             else{
                // when we are not allowed to buy we can sell or notSell
-              int sell=prices[ind]+dp[ind+1][1];
-              int notSell=0+dp[ind+1][0];
+              int sell=prices[ind]+prev[1];
+              int notSell=0+prev[0];
               Profit=max(sell,notSell);
             }
-            dp[ind][buy]=Profit;
+            cur[buy]=Profit;
             }
+            prev=cur;
         }
 
 
-        return dp[0][1];
+        return prev[1];
     }
 };
