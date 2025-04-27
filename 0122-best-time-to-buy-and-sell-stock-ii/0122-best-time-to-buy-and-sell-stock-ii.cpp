@@ -1,35 +1,35 @@
 class Solution {
 public:
-    int solve(int ind,int buy,vector<int>& prices,vector<vector<int>>& dp){
-        //Base Case
-        if(ind==prices.size()){
-            return 0;
-        }
-        //memoization check
-        if(dp[ind][buy]!=-1) return dp[ind][buy];
-        int Profit;
-
-        if(buy){
-            //even if we are allowed to buy we have to possible we can buy or not
-            int Buy=-prices[ind]+solve(ind+1,0,prices,dp);
-            int Notbuy=0+solve(ind+1,1,prices,dp);
-            Profit=max(Buy,Notbuy);
-        }
-
-        else{
-            // when we are not allowed to buy we can sell or notSell
-            int sell=prices[ind]+solve(ind+1,1,prices,dp);
-            int notSell=0+solve(ind+1,0,prices,dp);
-            Profit=max(sell,notSell);
-        }
-
-        return dp[ind][buy]=Profit;
-    }
     int maxProfit(vector<int>& prices) {
+        //Tabulation Solution for better space complexity
         int n=prices.size();
 
-        vector<vector<int>> dp(n,vector<int> (2,-1));
+        vector<vector<int>> dp(n+1,vector<int> (2,0));
+        //base Case
+        dp[n][0]=dp[n][1]=0;
 
-        return solve(0,1,prices,dp);
+        for(int ind=n-1;ind>=0;ind--){
+            for(int buy=0;buy<2;buy++){
+                int Profit;
+
+              if(buy){
+               //even if we are allowed to buy we have two possibilites we can buy or not
+              int Buy=-prices[ind]+dp[ind+1][0];
+              int Notbuy=0+dp[ind+1][1];
+              Profit=max(Buy,Notbuy);
+            }
+
+            else{
+               // when we are not allowed to buy we can sell or notSell
+              int sell=prices[ind]+dp[ind+1][1];
+              int notSell=0+dp[ind+1][0];
+              Profit=max(sell,notSell);
+            }
+            dp[ind][buy]=Profit;
+            }
+        }
+
+
+        return dp[0][1];
     }
 };
