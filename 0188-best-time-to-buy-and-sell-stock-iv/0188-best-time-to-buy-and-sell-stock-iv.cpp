@@ -1,37 +1,33 @@
 class Solution {
 public:
-    int solve(int ind,int buy,int k,vector<int>& prices,vector<vector<vector<int>>>& dp ){
-        //mempized solution for better time complexity
-
-        //Base Case
-        if(ind==prices.size()|| k==0){
-            return 0;
-        }
-
-        if( dp[ind][buy][k] != -1) return dp[ind][buy][k];
-
-        int Profit=0;
-
-        if(buy){
-            int buy=-prices[ind]+solve(ind+1,0,k,prices,dp);
-            int notbuy= solve(ind+1,1,k,prices,dp);
-            Profit=max(buy,notbuy);
-        }
-        
-        else{
-            int sell=prices[ind]+solve(ind+1,1,k-1,prices,dp);
-            int notsell=solve(ind+1,0,k,prices,dp);
-            Profit=max(sell,notsell);
-        }
-        return dp[ind][buy][k]=Profit;
-
-    }
     int maxProfit(int k, vector<int>& prices) {
+        //Tabulized Solution for better space complexity
 
         int n=prices.size();
 
-        vector<vector<vector<int>>> dp(n+1,vector<vector<int>> (2,vector<int> (k+1,-1)));
+        vector<vector<vector<int>>> dp(n+1,vector<vector<int>> (2,vector<int> (k+1,0)));
 
-        return solve(0,1,k,prices,dp);
+        for(int ind=n-1;ind>=0;ind--){
+            for(int buy=0;buy<2;buy++){
+                for(int K=1;K<=k;K++){
+
+                    int Profit=0;
+
+                    if(buy){
+                     int buy=-prices[ind]+dp[ind+1][0][K];
+                     int notbuy= dp[ind+1][1][K];
+                     Profit=max(buy,notbuy);
+                    }
+        
+                    else{
+                     int sell=prices[ind]+dp[ind+1][1][K-1];
+                     int notsell=dp[ind+1][0][K];
+                     Profit=max(sell,notsell);
+                    }
+                    dp[ind][buy][K]=Profit;
+                }
+            }
+        }
+        return dp[0][1][k];
     }
 };
