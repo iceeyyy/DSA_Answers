@@ -2,33 +2,28 @@ class Solution {
 public:
     
     int maxProfit(vector<int>& prices, int fee) {
-        //Tabulized Solution for better Space Complexity with space optimization
+        //Tabulized Solution for better Space Complexity with most possible space optimization
         int n=prices.size();
 
-        vector<int> ahead(2,0);
-        vector<int> cur(2,0);
+        int ahead0=0;
+        int ahead1=0;
+        int cur0;
+        int cur1;
 
         for(int ind=n-1;ind>=0;ind--){
-            for(int buy=0;buy<2;buy++){
 
-                int Profit=0;
+            int buyy=-prices[ind]+ahead0;
+            int notbuy=ahead1;
+            cur1=max(buyy,notbuy);
 
-                if(buy){
-                    int buyy=-prices[ind]+ahead[0];
-                    int notbuy=ahead[1];
-                    Profit=max(buyy,notbuy);
-                }
+            int sell=prices[ind]-fee+ahead1;
+            int notSell=ahead0;
+            cur0=max(sell,notSell);
 
-                else{
-                    int sell=prices[ind]-fee+ahead[1];
-                    int notSell=ahead[0];
-                    Profit=max(sell,notSell);
-                }
-               cur[buy]=Profit;
-            }
-            ahead=cur;
+            ahead0=cur0;
+            ahead1=cur1;
         }
 
-        return ahead[1];
+        return ahead1;
     }
 };
