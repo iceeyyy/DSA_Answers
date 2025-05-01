@@ -1,28 +1,24 @@
 class Solution {
 public:
-
     int lengthOfLIS(vector<int>& nums) {
-        //tabulation solution  with space otpimization
         int n=nums.size();
-        
-        vector<int> prev(n+1,0);
-        vector<int> cur(n+1,0);
-        
-        for(int ind=n-1;ind>=0;ind--){
-            for(int prevind=n-1;prevind>=-1;prevind--){
+        vector<int> dp(n,1);
 
-                int notPick=prev[prevind+1];
-                int Pick=0;
-              //if we include prevind==-1 then we can include 1st index
-                if(prevind==-1 || nums[prevind]<nums[ind]){
-                   Pick=1+prev[ind+1];
+        //computing the dp array
+        for(int i=0;i<n;i++){
+            for(int prev=0;prev<=i-1;prev++){
+                if(nums[prev]<nums[i]){
+                    dp[i]=max(dp[i],1+dp[prev]);
                 }
-
-              cur[prevind+1]=max(notPick,Pick);
             }
-            prev=cur;
+        }
+        //return the max value in the array
+        int ans=INT_MIN;
+
+        for(int i=0;i<n;i++){
+            ans=max(ans,dp[i]);
         }
 
-        return prev[-1+1];
+        return ans;
     }
 };
