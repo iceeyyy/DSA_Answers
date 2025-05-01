@@ -1,31 +1,24 @@
 class Solution {
 public:
-    int solve(int ind,int prevInd,vector<int>& nums,vector<vector<int>>& dp){
-        //Base Case when we cross the last index
-        if(ind==nums.size()){
-            return 0;
-        }
-        //we are  using prevInd+1 because it starts with -1 and we are shifting it to right
-        // -1 -> 0
-        //  0 -> 1
-        if(dp[ind][prevInd+1]!=-1) return dp[ind][prevInd+1];
+int solve(int ind,int prevind,vector<int>& nums,vector<vector<int>>& dp){
 
-        int notPick=solve(ind+1,prevInd,nums,dp);
-
-        int pick=0;
-
-        if(prevInd==-1|| nums[prevInd]<nums[ind]){
-            pick=1+solve(ind+1,ind,nums,dp);
-        }
-
-        return dp[ind][prevInd+1]=max(notPick,pick);
+    if(ind==nums.size()){
+        return 0;
     }
+    if(dp[ind][prevind+1]!=-1) return dp[ind][prevind+1];
+
+    int notPick=solve(ind+1,prevind,nums,dp);
+    int Pick=0;
+    //if we include prevind==-1 then we can include 1st index
+    if(prevind==-1 || nums[prevind]<nums[ind]){
+        Pick=1+solve(ind+1,ind,nums,dp);
+    }
+
+    return dp[ind][prevind+1]=max(notPick,Pick);
+}
     int lengthOfLIS(vector<int>& nums) {
-
         int n=nums.size();
-
         vector<vector<int>> dp(n,vector<int> (n+1,-1));
-
         return solve(0,-1,nums,dp);
     }
 };
