@@ -1,24 +1,26 @@
 class Solution {
 public:
-int solve(int ind,int prevind,vector<int>& nums,vector<vector<int>>& dp){
 
-    if(ind==nums.size()){
-        return 0;
-    }
-    if(dp[ind][prevind+1]!=-1) return dp[ind][prevind+1];
-
-    int notPick=solve(ind+1,prevind,nums,dp);
-    int Pick=0;
-    //if we include prevind==-1 then we can include 1st index
-    if(prevind==-1 || nums[prevind]<nums[ind]){
-        Pick=1+solve(ind+1,ind,nums,dp);
-    }
-
-    return dp[ind][prevind+1]=max(notPick,Pick);
-}
     int lengthOfLIS(vector<int>& nums) {
+        //tabulation solution 
         int n=nums.size();
-        vector<vector<int>> dp(n,vector<int> (n+1,-1));
-        return solve(0,-1,nums,dp);
+        vector<vector<int>> dp(n+1,vector<int> (n+1,0));
+
+        
+        for(int ind=n-1;ind>=0;ind--){
+            for(int prevind=n-1;prevind>=-1;prevind--){
+
+                int notPick=dp[ind+1][prevind+1];
+                int Pick=0;
+              //if we include prevind==-1 then we can include 1st index
+                if(prevind==-1 || nums[prevind]<nums[ind]){
+                   Pick=1+dp[ind+1][ind+1];
+                }
+
+              dp[ind][prevind+1]=max(notPick,Pick);
+            }
+        }
+
+        return dp[0][-1+1];
     }
 };
