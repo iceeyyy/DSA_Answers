@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/iceeyyy/DSA_Answers/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iceeyyy/DSA_Answers/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/iceeyyy/DSA_Answers/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/iceeyyy/DSA_Answers/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1706-min-cost-to-connect-all-points](https://github.com/iceeyyy/DSA_Answers/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/iceeyyy/DSA_Answers/tree/master/2121-find-if-path-exists-in-graph) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/iceeyyy/DSA_Answers/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iceeyyy/DSA_Answers/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/iceeyyy/DSA_Answers/tree/master/1753-path-with-minimum-effort) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/iceeyyy/DSA_Answers/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iceeyyy/DSA_Answers/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/iceeyyy/DSA_Answers/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Concurrency
 |  |
 | ------- |
