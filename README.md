@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/iceeyyy/DSA_Answers/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/iceeyyy/DSA_Answers/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/iceeyyy/DSA_Answers/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/iceeyyy/DSA_Answers/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/iceeyyy/DSA_Answers/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/iceeyyy/DSA_Answers/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/iceeyyy/DSA_Answers/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/iceeyyy/DSA_Answers/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/iceeyyy/DSA_Answers/tree/master/1013-fibonacci-number) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/iceeyyy/DSA_Answers/tree/master/0044-wildcard-matching) |
+| [0231-power-of-two](https://github.com/iceeyyy/DSA_Answers/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/iceeyyy/DSA_Answers/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/iceeyyy/DSA_Answers/tree/master/2050-count-good-numbers) |
 ## Binary Indexed Tree
