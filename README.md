@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/iceeyyy/DSA_Answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/iceeyyy/DSA_Answers/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iceeyyy/DSA_Answers/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0875-longest-mountain-in-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0875-longest-mountain-in-array) |
 | [0967-minimum-falling-path-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/iceeyyy/DSA_Answers/tree/master/1013-fibonacci-number) |
 | [1121-partition-array-for-maximum-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/1121-partition-array-for-maximum-sum) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/iceeyyy/DSA_Answers/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/iceeyyy/DSA_Answers/tree/master/0747-min-cost-climbing-stairs) |
 | [0854-making-a-large-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0854-making-a-large-island) |
+| [0875-longest-mountain-in-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0875-longest-mountain-in-array) |
 | [0876-hand-of-straights](https://github.com/iceeyyy/DSA_Answers/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0967-minimum-falling-path-sum) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iceeyyy/DSA_Answers/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iceeyyy/DSA_Answers/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0875-longest-mountain-in-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/iceeyyy/DSA_Answers/tree/master/1129-longest-string-chain) |
 ## Binary Search
@@ -672,4 +675,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
