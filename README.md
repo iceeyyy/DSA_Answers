@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/iceeyyy/DSA_Answers/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/iceeyyy/DSA_Answers/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/iceeyyy/DSA_Answers/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/iceeyyy/DSA_Answers/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/iceeyyy/DSA_Answers/tree/master/0451-sort-characters-by-frequency) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/iceeyyy/DSA_Answers/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/iceeyyy/DSA_Answers/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0132-palindrome-partitioning-ii) |
+| [0205-isomorphic-strings](https://github.com/iceeyyy/DSA_Answers/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/iceeyyy/DSA_Answers/tree/master/0451-sort-characters-by-frequency) |
