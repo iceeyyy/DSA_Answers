@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/iceeyyy/DSA_Answers/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/iceeyyy/DSA_Answers/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3321-type-of-triangle](https://github.com/iceeyyy/DSA_Answers/tree/master/3321-type-of-triangle) |
 ## Array
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/iceeyyy/DSA_Answers/tree/master/2350-find-closest-number-to-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/iceeyyy/DSA_Answers/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3321-type-of-triangle](https://github.com/iceeyyy/DSA_Answers/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/iceeyyy/DSA_Answers/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iceeyyy/DSA_Answers/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/iceeyyy/DSA_Answers/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/iceeyyy/DSA_Answers/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/iceeyyy/DSA_Answers/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3321-type-of-triangle](https://github.com/iceeyyy/DSA_Answers/tree/master/3321-type-of-triangle) |
 ## Monotonic Stack
 |  |
 | ------- |
