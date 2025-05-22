@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/iceeyyy/DSA_Answers/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/iceeyyy/DSA_Answers/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/iceeyyy/DSA_Answers/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/iceeyyy/DSA_Answers/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iceeyyy/DSA_Answers/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/iceeyyy/DSA_Answers/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iceeyyy/DSA_Answers/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/iceeyyy/DSA_Answers/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0518-coin-change-ii) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/iceeyyy/DSA_Answers/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/iceeyyy/DSA_Answers/tree/master/0231-power-of-two) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -699,4 +702,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
