@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/iceeyyy/DSA_Answers/tree/master/2350-find-closest-number-to-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/iceeyyy/DSA_Answers/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3194-find-words-containing-character](https://github.com/iceeyyy/DSA_Answers/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/iceeyyy/DSA_Answers/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/iceeyyy/DSA_Answers/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/iceeyyy/DSA_Answers/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/iceeyyy/DSA_Answers/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/iceeyyy/DSA_Answers/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3194-find-words-containing-character](https://github.com/iceeyyy/DSA_Answers/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/3447-clear-digits) |
 ## Design
 |  |
