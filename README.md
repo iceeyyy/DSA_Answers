@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/iceeyyy/DSA_Answers/tree/master/1197-parsing-a-boolean-expression) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/iceeyyy/DSA_Answers/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/iceeyyy/DSA_Answers/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/iceeyyy/DSA_Answers/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/3447-clear-digits) |
 ## Tree
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/iceeyyy/DSA_Answers/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iceeyyy/DSA_Answers/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/iceeyyy/DSA_Answers/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sorting
 |  |
 | ------- |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/iceeyyy/DSA_Answers/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iceeyyy/DSA_Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/iceeyyy/DSA_Answers/tree/master/3194-find-words-containing-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/iceeyyy/DSA_Answers/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/3447-clear-digits) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Design
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/iceeyyy/DSA_Answers/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/iceeyyy/DSA_Answers/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Ordered Set
 |  |
@@ -688,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/iceeyyy/DSA_Answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/iceeyyy/DSA_Answers/tree/master/0876-hand-of-straights) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iceeyyy/DSA_Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/iceeyyy/DSA_Answers/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sliding Window
 |  |
 | ------- |
