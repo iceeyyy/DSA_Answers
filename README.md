@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/iceeyyy/DSA_Answers/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/iceeyyy/DSA_Answers/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/iceeyyy/DSA_Answers/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/iceeyyy/DSA_Answers/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/iceeyyy/DSA_Answers/tree/master/3321-type-of-triangle) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/iceeyyy/DSA_Answers/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iceeyyy/DSA_Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2350-find-closest-number-to-zero](https://github.com/iceeyyy/DSA_Answers/tree/master/2350-find-closest-number-to-zero) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/iceeyyy/DSA_Answers/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/iceeyyy/DSA_Answers/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/iceeyyy/DSA_Answers/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/iceeyyy/DSA_Answers/tree/master/0876-hand-of-straights) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/iceeyyy/DSA_Answers/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iceeyyy/DSA_Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/iceeyyy/DSA_Answers/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/iceeyyy/DSA_Answers/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/iceeyyy/DSA_Answers/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/iceeyyy/DSA_Answers/tree/master/3241-divide-array-into-arrays-with-max-difference) |
