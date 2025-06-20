@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iceeyyy/DSA_Answers/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/iceeyyy/DSA_Answers/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/iceeyyy/DSA_Answers/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
 |  |
 | ------- |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/3447-clear-digits) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/iceeyyy/DSA_Answers/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Design
 |  |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/iceeyyy/DSA_Answers/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/iceeyyy/DSA_Answers/tree/master/3321-type-of-triangle) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/iceeyyy/DSA_Answers/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iceeyyy/DSA_Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/iceeyyy/DSA_Answers/tree/master/2448-count-number-of-bad-pairs) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/iceeyyy/DSA_Answers/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Iterator
 |  |
 | ------- |
