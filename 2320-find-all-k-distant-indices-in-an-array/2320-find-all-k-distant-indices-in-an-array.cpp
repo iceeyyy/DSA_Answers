@@ -2,27 +2,25 @@ class Solution {
 public:
     vector<int> findKDistantIndices(vector<int>& nums, int key, int k) {
         int n=nums.size();
-        vector<bool> vis(n,0);
+        vector<int> ans;
 
         for(int i=0;i<n;i++){
-            //marking index of key
+
             if(nums[i]==key){
-                vis[i]=1;
-            }
-        }
+                int start=max(0,i-k);
+                int end=min(i+k,n-1);
 
-        set<int> ans;
+                if(!ans.empty() && ans.back()>=start){
+                    //check for overlaping condition
+                    start=ans.back()+1;
+                }
 
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(vis[j]){
-                    if(abs(j-i)<=k){
-                        ans.insert(i);
-                    }
+                for(int j=start;j<=end;j++){
+                    ans.push_back(j);
                 }
             }
         }
-        vector<int> result(ans.begin(),ans.end());
-        return result;
+        return ans;
+
     }
 };
