@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/iceeyyy/DSA_Answers/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/iceeyyy/DSA_Answers/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/iceeyyy/DSA_Answers/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iceeyyy/DSA_Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/iceeyyy/DSA_Answers/tree/master/2350-find-closest-number-to-zero) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iceeyyy/DSA_Answers/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1753-path-with-minimum-effort](https://github.com/iceeyyy/DSA_Answers/tree/master/1753-path-with-minimum-effort) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/iceeyyy/DSA_Answers/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/iceeyyy/DSA_Answers/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
 |  |
