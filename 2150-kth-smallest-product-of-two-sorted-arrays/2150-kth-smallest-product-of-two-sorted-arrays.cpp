@@ -13,10 +13,12 @@ public:
             }
             if (nums1[i] > 0) {
                 // Binary search for the largest j such that nums1[i]*nums2[j] <= midProduct
-                int l = 0, r = n - 1, m = -1;
-                while (l <= r) {
-                    int mid = l + (r - l) / 2;
-                    long long prod = 1LL * nums1[i] * nums2[mid];
+                int l = 0;
+                int r = n - 1;
+                int m =-1;
+                while (l<=r) {
+                    int mid = l + (r - l)/2;
+                    long long prod = 1LL * nums1[i]*nums2[mid];
                     if (prod <= midProduct) {
                         m = mid;
                         l = mid + 1;
@@ -29,7 +31,7 @@ public:
                 // nums1[i] < 0
                 // Binary search for smallest j such that nums1[i]*nums2[j] <= midProduct
                 int l = 0, r = n - 1, m = n;
-                while (l <= r) {
+                while (l<=r) {
                     int mid = l + (r - l) / 2;
                     long long prod = 1LL * nums1[i] * nums2[mid];
                     if (prod <= midProduct) {
@@ -47,9 +49,6 @@ public:
     }
 
     long long kthSmallestProduct(vector<int>& nums1, vector<int>& nums2, long long k) {
-        sort(nums1.begin(), nums1.end());
-        sort(nums2.begin(), nums2.end());
-
         long long l = -1e10, r = 1e10;
         long long ans = 0;
 
