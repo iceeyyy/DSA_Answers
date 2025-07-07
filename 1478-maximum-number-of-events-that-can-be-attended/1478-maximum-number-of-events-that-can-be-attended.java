@@ -17,7 +17,7 @@ class Solution {
             }
 
             while(pos<n && events[pos][0]==time){
-                minHeap.offer(events[pos][1]);
+                minHeap.add(events[pos][1]);
                 pos++;
             }
 
