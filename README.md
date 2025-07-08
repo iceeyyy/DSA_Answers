@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/iceeyyy/DSA_Answers/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/iceeyyy/DSA_Answers/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/iceeyyy/DSA_Answers/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/iceeyyy/DSA_Answers/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3618-find-the-original-typed-string-ii) |
 ## Hash Table
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/iceeyyy/DSA_Answers/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/iceeyyy/DSA_Answers/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/iceeyyy/DSA_Answers/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/iceeyyy/DSA_Answers/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/iceeyyy/DSA_Answers/tree/master/1753-path-with-minimum-effort) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/iceeyyy/DSA_Answers/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/iceeyyy/DSA_Answers/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/iceeyyy/DSA_Answers/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/iceeyyy/DSA_Answers/tree/master/1753-path-with-minimum-effort) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/iceeyyy/DSA_Answers/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/iceeyyy/DSA_Answers/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
