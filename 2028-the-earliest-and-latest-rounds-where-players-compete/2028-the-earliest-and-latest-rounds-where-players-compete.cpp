@@ -4,8 +4,8 @@ public:
         int p1=firstPlayer;
         int p2=secondPlayer;
 
-        if(p1==n-p2+1){
-            return{1,1};
+        if(p1+p2 == n+1){
+            return{1,1}; // if they are competing against each other
         }
 
         if(p1 > n-p2+1){
@@ -53,7 +53,7 @@ public:
                 }
              }
         }
-        
+
         return {minRound,maxRound};
     }
 };
