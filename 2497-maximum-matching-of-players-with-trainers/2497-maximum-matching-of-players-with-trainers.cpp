@@ -1,13 +1,19 @@
 class Solution {
 public:
     int matchPlayersAndTrainers(vector<int>& players, vector<int>& trainers) {
+        thread t1([&](){
+            sort(players.begin(),players.end());
+        });
+        //implemented multithreading for sorting for better time complexity
+        thread t2([&](){
+            sort(trainers.begin(),trainers.end());
+        });
+        t1.join();
+        t2.join();  
+        
         int cnt=0;
-
         int i=0;
         int j=0;
-        
-        sort(players.begin(),players.end());
-        sort(trainers.begin(),trainers.end());
 
         while(i<players.size() && j<trainers.size()){
 
