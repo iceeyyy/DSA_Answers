@@ -7,10 +7,11 @@ public:
             string subFolder=folder[i];
             string str=subFolder;
             while(!str.empty()){
-                auto pos=str.find_last_of('/');
+                auto pos=str.find_last_of('/'); //returns the last position of the char in a string
                 str=subFolder.substr(0,pos);
                 if(st.find(str)!=st.end()){
                     st.erase(subFolder); //already present
+                    break;
                 }
             }
         }
