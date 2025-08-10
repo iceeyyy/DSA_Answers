@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/iceeyyy/DSA_Answers/tree/master/0782-jewels-and-stones) |
 | [0876-hand-of-straights](https://github.com/iceeyyy/DSA_Answers/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0900-reordered-power-of-2](https://github.com/iceeyyy/DSA_Answers/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/iceeyyy/DSA_Answers/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/iceeyyy/DSA_Answers/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/iceeyyy/DSA_Answers/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/iceeyyy/DSA_Answers/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/iceeyyy/DSA_Answers/tree/master/0876-hand-of-straights) |
+| [0900-reordered-power-of-2](https://github.com/iceeyyy/DSA_Answers/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/iceeyyy/DSA_Answers/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1019-squares-of-a-sorted-array) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/iceeyyy/DSA_Answers/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/iceeyyy/DSA_Answers/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/iceeyyy/DSA_Answers/tree/master/0368-largest-divisible-subset) |
+| [0900-reordered-power-of-2](https://github.com/iceeyyy/DSA_Answers/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/iceeyyy/DSA_Answers/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/iceeyyy/DSA_Answers/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iceeyyy/DSA_Answers/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/iceeyyy/DSA_Answers/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/iceeyyy/DSA_Answers/tree/master/0621-task-scheduler) |
+| [0900-reordered-power-of-2](https://github.com/iceeyyy/DSA_Answers/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/iceeyyy/DSA_Answers/tree/master/1160-letter-tile-possibilities) |
 | [1297-maximum-number-of-balloons](https://github.com/iceeyyy/DSA_Answers/tree/master/1297-maximum-number-of-balloons) |
 | [1364-tuple-with-same-product](https://github.com/iceeyyy/DSA_Answers/tree/master/1364-tuple-with-same-product) |
@@ -907,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/iceeyyy/DSA_Answers/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0875-longest-mountain-in-array) |
+| [0900-reordered-power-of-2](https://github.com/iceeyyy/DSA_Answers/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/iceeyyy/DSA_Answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/iceeyyy/DSA_Answers/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3201-distribute-candies-among-children-ii) |
