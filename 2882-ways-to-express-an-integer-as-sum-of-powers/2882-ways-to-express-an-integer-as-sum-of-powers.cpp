@@ -21,7 +21,7 @@ public:
         return ds[i][sum] = (take+notTake)%mod;
     }
     int numberOfWays(int n, int x) {
-        vector<vector<int>> ds(n+1,vector<int>(n+1,-1));
+        vector<vector<int>> ds(n+1,vector<int>(n,-1));
         return solve(1,0,n,x,ds);
     }
 };
