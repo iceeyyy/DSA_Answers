@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/iceeyyy/DSA_Answers/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iceeyyy/DSA_Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/iceeyyy/DSA_Answers/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/iceeyyy/DSA_Answers/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/iceeyyy/DSA_Answers/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3194-find-words-containing-character](https://github.com/iceeyyy/DSA_Answers/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/iceeyyy/DSA_Answers/tree/master/3360-minimum-deletions-to-make-string-k-special) |
