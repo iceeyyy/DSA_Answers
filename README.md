@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/iceeyyy/DSA_Answers/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/iceeyyy/DSA_Answers/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/iceeyyy/DSA_Answers/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/iceeyyy/DSA_Answers/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/iceeyyy/DSA_Answers/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/iceeyyy/DSA_Answers/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/iceeyyy/DSA_Answers/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/iceeyyy/DSA_Answers/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/iceeyyy/DSA_Answers/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/iceeyyy/DSA_Answers/tree/master/0368-largest-divisible-subset) |
 | [0900-reordered-power-of-2](https://github.com/iceeyyy/DSA_Answers/tree/master/0900-reordered-power-of-2) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/iceeyyy/DSA_Answers/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/iceeyyy/DSA_Answers/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/iceeyyy/DSA_Answers/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/iceeyyy/DSA_Answers/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/iceeyyy/DSA_Answers/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/iceeyyy/DSA_Answers/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/iceeyyy/DSA_Answers/tree/master/2050-count-good-numbers) |
