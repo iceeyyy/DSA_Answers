@@ -4,7 +4,7 @@ public:
         long long cnt=0;
         long long ans=0;
 
-        for(int i=0;i<nums.size();i++){
+        for(size_t i=0;i<nums.size();i++){
             if(nums[i]==0) cnt++;
             else{
                 ans+=(cnt*(cnt+1))/2;
