@@ -13,7 +13,6 @@ public:
         }
         if(cnt){
             ans+=(cnt*(cnt+1))/2;
-            cnt=0;
         }
         return ans;
     }
