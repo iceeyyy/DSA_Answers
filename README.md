@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/iceeyyy/DSA_Answers/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/iceeyyy/DSA_Answers/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/iceeyyy/DSA_Answers/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0594-longest-harmonious-subsequence) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/iceeyyy/DSA_Answers/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/iceeyyy/DSA_Answers/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/iceeyyy/DSA_Answers/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/iceeyyy/DSA_Answers/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/iceeyyy/DSA_Answers/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/iceeyyy/DSA_Answers/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iceeyyy/DSA_Answers/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/iceeyyy/DSA_Answers/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/iceeyyy/DSA_Answers/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/iceeyyy/DSA_Answers/tree/master/0733-flood-fill) |
