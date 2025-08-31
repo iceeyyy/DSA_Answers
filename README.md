@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/iceeyyy/DSA_Answers/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/iceeyyy/DSA_Answers/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2481-strictly-palindromic-number](https://github.com/iceeyyy/DSA_Answers/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/iceeyyy/DSA_Answers/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/iceeyyy/DSA_Answers/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/iceeyyy/DSA_Answers/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/iceeyyy/DSA_Answers/tree/master/2448-count-number-of-bad-pairs) |
+| [2481-strictly-palindromic-number](https://github.com/iceeyyy/DSA_Answers/tree/master/2481-strictly-palindromic-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/iceeyyy/DSA_Answers/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/iceeyyy/DSA_Answers/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/iceeyyy/DSA_Answers/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -994,4 +996,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/iceeyyy/DSA_Answers/tree/master/0204-count-primes) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/iceeyyy/DSA_Answers/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
