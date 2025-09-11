@@ -1,24 +1,27 @@
 class Solution {
 public:
     bool isVowel(char ch){
-        return (ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u')?true:false;
+        char c = tolower(ch);
+        return (c=='a'||c=='e'||c=='i'||c=='o'||c=='u');
     }
     string sortVowels(string s) {
-        string temp="";
-        int j=0;
-        
+        unordered_map<char,int> mp;
+        string vowel = "AEIOUaeiou";
+        int j = 0;
+
         for(int i=0;i<s.length();i++){
-            if(isVowel(tolower(s[i]))){
-                temp.push_back(s[i]);
+            if(isVowel(s[i])){
+                mp[s[i]]++;
             }
         }
 
-        sort(temp.begin(),temp.end()); //sort the string
-
         for(int i=0;i<s.length();i++){
-            if(isVowel(tolower(s[i]))){
-                s[i]=temp[j];
-                j++;
+            if(isVowel(s[i])){
+                while(mp[vowel[j]]==0){
+                    j++; //move the pointer till we find the char that exists in the string
+                }
+                s[i]=vowel[j];
+                mp[vowel[j]]--; //decreasing the freq of char
             }
         }
         return s;
