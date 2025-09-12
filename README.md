@@ -628,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/iceeyyy/DSA_Answers/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/iceeyyy/DSA_Answers/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/3447-clear-digits) |
+| [3462-vowels-game-in-a-string](https://github.com/iceeyyy/DSA_Answers/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/iceeyyy/DSA_Answers/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/iceeyyy/DSA_Answers/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/iceeyyy/DSA_Answers/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -1034,8 +1036,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/iceeyyy/DSA_Answers/tree/master/2481-strictly-palindromic-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/iceeyyy/DSA_Answers/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/iceeyyy/DSA_Answers/tree/master/3462-vowels-game-in-a-string) |
 ## Queue
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/iceeyyy/DSA_Answers/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/iceeyyy/DSA_Answers/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
