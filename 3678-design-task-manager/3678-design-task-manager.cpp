@@ -34,7 +34,7 @@ public:
             pq.pop();
 
             if(priority==taskPriority[task]){  //if the priority found in heap is equal to the priority found in the taskPriority Map
-                taskPriority[task]=-1;
+                rmv(task);  // will be removed
                 return taskUser[task];
             }
         }
