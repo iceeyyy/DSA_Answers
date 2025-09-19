@@ -5,11 +5,11 @@ public:
     int solve(string s){
 
         if(isdigit(s[0])){
-            return stoi(s);
+            return stoi(s); // there was error in string to number conversion
         }
 
-        int col = s[0]-'A';
-        int row = stoi(s.substr(1))-1;
+        auto[row,col] = rowCol(s);
+        
         return sheet[row][col];
 
     }
