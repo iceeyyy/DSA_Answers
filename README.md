@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/iceeyyy/DSA_Answers/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/iceeyyy/DSA_Answers/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/iceeyyy/DSA_Answers/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iceeyyy/DSA_Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/iceeyyy/DSA_Answers/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/iceeyyy/DSA_Answers/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/iceeyyy/DSA_Answers/tree/master/2023-design-movie-rental-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/iceeyyy/DSA_Answers/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/iceeyyy/DSA_Answers/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/iceeyyy/DSA_Answers/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/iceeyyy/DSA_Answers/tree/master/0307-range-sum-query-mutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/iceeyyy/DSA_Answers/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/iceeyyy/DSA_Answers/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/iceeyyy/DSA_Answers/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/iceeyyy/DSA_Answers/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/iceeyyy/DSA_Answers/tree/master/3678-design-task-manager) |
@@ -797,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/iceeyyy/DSA_Answers/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/iceeyyy/DSA_Answers/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/iceeyyy/DSA_Answers/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/iceeyyy/DSA_Answers/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/iceeyyy/DSA_Answers/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/iceeyyy/DSA_Answers/tree/master/2429-design-a-food-rating-system) |
@@ -811,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/iceeyyy/DSA_Answers/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/iceeyyy/DSA_Answers/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/iceeyyy/DSA_Answers/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/iceeyyy/DSA_Answers/tree/master/3678-design-task-manager) |
