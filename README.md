@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/iceeyyy/DSA_Answers/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/iceeyyy/DSA_Answers/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/iceeyyy/DSA_Answers/tree/master/0747-min-cost-climbing-stairs) |
+| [0830-largest-triangle-area](https://github.com/iceeyyy/DSA_Answers/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0854-making-a-large-island) |
 | [0875-longest-mountain-in-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0875-longest-mountain-in-array) |
 | [0876-hand-of-straights](https://github.com/iceeyyy/DSA_Answers/tree/master/0876-hand-of-straights) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/iceeyyy/DSA_Answers/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/iceeyyy/DSA_Answers/tree/master/0368-largest-divisible-subset) |
 | [0679-24-game](https://github.com/iceeyyy/DSA_Answers/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/iceeyyy/DSA_Answers/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/iceeyyy/DSA_Answers/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/iceeyyy/DSA_Answers/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/iceeyyy/DSA_Answers/tree/master/1014-k-closest-points-to-origin) |
@@ -957,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/iceeyyy/DSA_Answers/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/iceeyyy/DSA_Answers/tree/master/1014-k-closest-points-to-origin) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
