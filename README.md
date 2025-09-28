@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/iceeyyy/DSA_Answers/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/iceeyyy/DSA_Answers/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/iceeyyy/DSA_Answers/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/iceeyyy/DSA_Answers/tree/master/1129-longest-string-chain) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0978-valid-mountain-array) |
 | [1006-vowel-spellchecker](https://github.com/iceeyyy/DSA_Answers/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/iceeyyy/DSA_Answers/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/iceeyyy/DSA_Answers/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/iceeyyy/DSA_Answers/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/iceeyyy/DSA_Answers/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/iceeyyy/DSA_Answers/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/iceeyyy/DSA_Answers/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/iceeyyy/DSA_Answers/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iceeyyy/DSA_Answers/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/iceeyyy/DSA_Answers/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/iceeyyy/DSA_Answers/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -977,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/iceeyyy/DSA_Answers/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/iceeyyy/DSA_Answers/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/iceeyyy/DSA_Answers/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/iceeyyy/DSA_Answers/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/iceeyyy/DSA_Answers/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/iceeyyy/DSA_Answers/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iceeyyy/DSA_Answers/tree/master/1818-maximum-score-from-removing-substrings) |
