@@ -1,47 +1,39 @@
 class Solution {
 public:
-    bool dfs(int i,int j,vector<vector<bool>>& vis,vector<vector<int>>& grid,int t,int dx[],int dy[]){
-        int n=grid.size();
-        if(i<0 || i>=n || j<0 ||  j>=n || grid[i][j] > t || vis[i][j]==true) return false; // out of bonds
-
-        if(i==n-1 && j==n-1) return true; // last cell reached
-
-        vis[i][j]=true;
-
-        for(int k=0;k<4;k++){
-            int nx=i+dx[k];  //bug no:1
-            int ny=j+dy[k];
-
-            if(dfs(nx,ny,vis,grid,t,dx,dy)){
-                return true;
-            }
-        }
-        return false;
-
-    }
     int swimInWater(vector<vector<int>>& grid) {
         int n=grid.size();
+        vector<vector<int>> vis(n,vector<int>(n,0));
 
+        priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>> pq;
+        //{maxx,{r,c}}
         int dx[4]={-1,0,1,0};
         int dy[4]={0,1,0,-1};
 
-        int l=grid[0][0];
-        int r=n*n-1;  //max value of grid[i][j] is n^2-1
-        int ans=0;
+        vis[0][0]=1;
+        pq.push({grid[0][0],{0,0}});
 
-        while(l<=r){
-            int mid = l + (r-l)/2;
-            vector<vector<bool>> vis(n,vector<bool> (n,false));  // visited needs to be reseted after each attempt // bug no :2
+        while(!pq.empty()){
+            auto cur = pq.top();
+            pq.pop();
 
-            if(dfs(0,0,vis,grid,mid,dx,dy)){
-                ans=mid;
-                r=mid-1;
+            int step=cur.first;
+            int x=cur.second.first;
+            int y=cur.second.second;
+
+            if(x==n-1 && y==n-1) return step;
+
+            for(int i=0;i<4;i++){
+                int nx=x+dx[i];
+                int ny=y+dy[i];
+                if(nx>=0 && nx<n && ny>=0 && ny<n && !vis[nx][ny]){
+                    int maxx = max(grid[nx][ny],step);
+                    vis[nx][ny]=1;
+                    pq.push({maxx,{nx,ny}});
+                }
             }
-            else{
-                l=mid+1;
-            }
+
         }
 
-        return ans;
+        return -1;
     }
 };
