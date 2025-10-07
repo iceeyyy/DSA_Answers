@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/iceeyyy/DSA_Answers/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/iceeyyy/DSA_Answers/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/iceeyyy/DSA_Answers/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/iceeyyy/DSA_Answers/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/iceeyyy/DSA_Answers/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/iceeyyy/DSA_Answers/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/iceeyyy/DSA_Answers/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/iceeyyy/DSA_Answers/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/iceeyyy/DSA_Answers/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/iceeyyy/DSA_Answers/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iceeyyy/DSA_Answers/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/iceeyyy/DSA_Answers/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/iceeyyy/DSA_Answers/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/iceeyyy/DSA_Answers/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/iceeyyy/DSA_Answers/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/iceeyyy/DSA_Answers/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/iceeyyy/DSA_Answers/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/iceeyyy/DSA_Answers/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/iceeyyy/DSA_Answers/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/iceeyyy/DSA_Answers/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1612-avoid-flood-in-the-city](https://github.com/iceeyyy/DSA_Answers/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/iceeyyy/DSA_Answers/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/iceeyyy/DSA_Answers/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/iceeyyy/DSA_Answers/tree/master/2023-design-movie-rental-system) |
@@ -1019,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/iceeyyy/DSA_Answers/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/iceeyyy/DSA_Answers/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/iceeyyy/DSA_Answers/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1612-avoid-flood-in-the-city](https://github.com/iceeyyy/DSA_Answers/tree/master/1612-avoid-flood-in-the-city) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iceeyyy/DSA_Answers/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/iceeyyy/DSA_Answers/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/iceeyyy/DSA_Answers/tree/master/1917-maximum-average-pass-ratio) |
