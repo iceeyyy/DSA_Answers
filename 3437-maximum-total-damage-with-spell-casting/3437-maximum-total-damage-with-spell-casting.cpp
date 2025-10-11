@@ -1,7 +1,8 @@
 class Solution {
 public:
     typedef long long ll;
-    ll solve(int i,vector<ll>& nums,unordered_map<ll,ll>& mp,vector<ll>& dp){
+    ll solve(ll i,vector<ll>& nums,unordered_map<ll,ll>& mp,vector<ll>& dp){
+        //memoized solution for better time complexity
         int n=nums.size();
         if(i>=n) return 0;
         if(dp[i]!=-1) return dp[i];
