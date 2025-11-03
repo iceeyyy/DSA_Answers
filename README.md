@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/iceeyyy/DSA_Answers/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iceeyyy/DSA_Answers/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/iceeyyy/DSA_Answers/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/iceeyyy/DSA_Answers/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/iceeyyy/DSA_Answers/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/iceeyyy/DSA_Answers/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/iceeyyy/DSA_Answers/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iceeyyy/DSA_Answers/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/iceeyyy/DSA_Answers/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/iceeyyy/DSA_Answers/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/iceeyyy/DSA_Answers/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/iceeyyy/DSA_Answers/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/iceeyyy/DSA_Answers/tree/master/1813-maximum-erasure-value) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iceeyyy/DSA_Answers/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/iceeyyy/DSA_Answers/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/iceeyyy/DSA_Answers/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/iceeyyy/DSA_Answers/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/iceeyyy/DSA_Answers/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/iceeyyy/DSA_Answers/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iceeyyy/DSA_Answers/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1097,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/iceeyyy/DSA_Answers/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/iceeyyy/DSA_Answers/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/iceeyyy/DSA_Answers/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/iceeyyy/DSA_Answers/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iceeyyy/DSA_Answers/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/iceeyyy/DSA_Answers/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/iceeyyy/DSA_Answers/tree/master/1917-maximum-average-pass-ratio) |
