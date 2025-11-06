@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/iceeyyy/DSA_Answers/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/iceeyyy/DSA_Answers/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/iceeyyy/DSA_Answers/tree/master/2121-find-if-path-exists-in-graph) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/iceeyyy/DSA_Answers/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/iceeyyy/DSA_Answers/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/iceeyyy/DSA_Answers/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/iceeyyy/DSA_Answers/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/iceeyyy/DSA_Answers/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/iceeyyy/DSA_Answers/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/iceeyyy/DSA_Answers/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/iceeyyy/DSA_Answers/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/iceeyyy/DSA_Answers/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/iceeyyy/DSA_Answers/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
 | ------- |
@@ -941,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3678-design-task-manager](https://github.com/iceeyyy/DSA_Answers/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/iceeyyy/DSA_Answers/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
 | ------- |
@@ -951,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/iceeyyy/DSA_Answers/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/iceeyyy/DSA_Answers/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/iceeyyy/DSA_Answers/tree/master/3863-power-grid-maintenance) |
 ## Quickselect
 |  |
 | ------- |
@@ -975,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/iceeyyy/DSA_Answers/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/iceeyyy/DSA_Answers/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/iceeyyy/DSA_Answers/tree/master/2121-find-if-path-exists-in-graph) |
+| [3863-power-grid-maintenance](https://github.com/iceeyyy/DSA_Answers/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -995,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/iceeyyy/DSA_Answers/tree/master/2121-find-if-path-exists-in-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/iceeyyy/DSA_Answers/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3863-power-grid-maintenance](https://github.com/iceeyyy/DSA_Answers/tree/master/3863-power-grid-maintenance) |
 ## Data Stream
 |  |
 | ------- |
