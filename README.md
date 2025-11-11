@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/iceeyyy/DSA_Answers/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/iceeyyy/DSA_Answers/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0518-coin-change-ii) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/iceeyyy/DSA_Answers/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/iceeyyy/DSA_Answers/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/iceeyyy/DSA_Answers/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/iceeyyy/DSA_Answers/tree/master/0498-diagonal-traverse) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/iceeyyy/DSA_Answers/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/iceeyyy/DSA_Answers/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/iceeyyy/DSA_Answers/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/iceeyyy/DSA_Answers/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/iceeyyy/DSA_Answers/tree/master/0721-accounts-merge) |
