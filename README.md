@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/iceeyyy/DSA_Answers/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/iceeyyy/DSA_Answers/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/0144-binary-tree-preorder-traversal) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iceeyyy/DSA_Answers/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/iceeyyy/DSA_Answers/tree/master/0044-wildcard-matching) |
+| [0071-simplify-path](https://github.com/iceeyyy/DSA_Answers/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/iceeyyy/DSA_Answers/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/iceeyyy/DSA_Answers/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/iceeyyy/DSA_Answers/tree/master/0115-distinct-subsequences) |
