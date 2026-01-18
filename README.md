@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/iceeyyy/DSA_Answers/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/iceeyyy/DSA_Answers/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-largest-magic-square](https://github.com/iceeyyy/DSA_Answers/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/iceeyyy/DSA_Answers/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -1093,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/iceeyyy/DSA_Answers/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/iceeyyy/DSA_Answers/tree/master/1477-product-of-the-last-k-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/iceeyyy/DSA_Answers/tree/master/1590-make-sum-divisible-by-p) |
+| [1895-largest-magic-square](https://github.com/iceeyyy/DSA_Answers/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/iceeyyy/DSA_Answers/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/iceeyyy/DSA_Answers/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/iceeyyy/DSA_Answers/tree/master/2529-range-product-queries-of-powers) |
@@ -1133,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iceeyyy/DSA_Answers/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iceeyyy/DSA_Answers/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/iceeyyy/DSA_Answers/tree/master/1753-path-with-minimum-effort) |
+| [1895-largest-magic-square](https://github.com/iceeyyy/DSA_Answers/tree/master/1895-largest-magic-square) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/iceeyyy/DSA_Answers/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/iceeyyy/DSA_Answers/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/iceeyyy/DSA_Answers/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
