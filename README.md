@@ -1032,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/iceeyyy/DSA_Answers/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/iceeyyy/DSA_Answers/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/iceeyyy/DSA_Answers/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
@@ -1170,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/iceeyyy/DSA_Answers/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/iceeyyy/DSA_Answers/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/iceeyyy/DSA_Answers/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Concurrency
 |  |
 | ------- |
@@ -1370,4 +1372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/iceeyyy/DSA_Answers/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/iceeyyy/DSA_Answers/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/iceeyyy/DSA_Answers/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
