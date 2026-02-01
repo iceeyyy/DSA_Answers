@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/iceeyyy/DSA_Answers/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/iceeyyy/DSA_Answers/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/iceeyyy/DSA_Answers/tree/master/2887-sort-vowels-in-a-string) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/iceeyyy/DSA_Answers/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/iceeyyy/DSA_Answers/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/iceeyyy/DSA_Answers/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/iceeyyy/DSA_Answers/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/iceeyyy/DSA_Answers/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/iceeyyy/DSA_Answers/tree/master/3074-apple-redistribution-into-boxes) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/iceeyyy/DSA_Answers/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/iceeyyy/DSA_Answers/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1327,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/iceeyyy/DSA_Answers/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/iceeyyy/DSA_Answers/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/iceeyyy/DSA_Answers/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
