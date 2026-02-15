@@ -671,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/iceeyyy/DSA_Answers/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/iceeyyy/DSA_Answers/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/iceeyyy/DSA_Answers/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/iceeyyy/DSA_Answers/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0137-single-number-ii) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iceeyyy/DSA_Answers/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/iceeyyy/DSA_Answers/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/iceeyyy/DSA_Answers/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/iceeyyy/DSA_Answers/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/iceeyyy/DSA_Answers/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/iceeyyy/DSA_Answers/tree/master/0079-word-search) |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/iceeyyy/DSA_Answers/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/iceeyyy/DSA_Answers/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/iceeyyy/DSA_Answers/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/iceeyyy/DSA_Answers/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/iceeyyy/DSA_Answers/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/iceeyyy/DSA_Answers/tree/master/0204-count-primes) |
@@ -983,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/iceeyyy/DSA_Answers/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/iceeyyy/DSA_Answers/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/iceeyyy/DSA_Answers/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/iceeyyy/DSA_Answers/tree/master/0735-asteroid-collision) |
