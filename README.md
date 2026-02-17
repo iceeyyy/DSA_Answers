@@ -660,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/iceeyyy/DSA_Answers/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/iceeyyy/DSA_Answers/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/iceeyyy/DSA_Answers/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/iceeyyy/DSA_Answers/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/iceeyyy/DSA_Answers/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/iceeyyy/DSA_Answers/tree/master/1160-letter-tile-possibilities) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/iceeyyy/DSA_Answers/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/iceeyyy/DSA_Answers/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/iceeyyy/DSA_Answers/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/iceeyyy/DSA_Answers/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/iceeyyy/DSA_Answers/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/iceeyyy/DSA_Answers/tree/master/1018-binary-prefix-divisible-by-5) |
