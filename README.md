@@ -683,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/iceeyyy/DSA_Answers/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/iceeyyy/DSA_Answers/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/iceeyyy/DSA_Answers/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/iceeyyy/DSA_Answers/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/iceeyyy/DSA_Answers/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1826-maximum-xor-with-an-element-from-array) |
