@@ -684,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/iceeyyy/DSA_Answers/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/iceeyyy/DSA_Answers/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/iceeyyy/DSA_Answers/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/iceeyyy/DSA_Answers/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/iceeyyy/DSA_Answers/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -903,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/iceeyyy/DSA_Answers/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/iceeyyy/DSA_Answers/tree/master/0368-largest-divisible-subset) |
 | [0679-24-game](https://github.com/iceeyyy/DSA_Answers/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/iceeyyy/DSA_Answers/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/iceeyyy/DSA_Answers/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/iceeyyy/DSA_Answers/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/iceeyyy/DSA_Answers/tree/master/1013-fibonacci-number) |
