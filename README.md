@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/iceeyyy/DSA_Answers/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/iceeyyy/DSA_Answers/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/iceeyyy/DSA_Answers/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/iceeyyy/DSA_Answers/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/iceeyyy/DSA_Answers/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/iceeyyy/DSA_Answers/tree/master/3748-sort-matrix-by-diagonals) |
 ## Array
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/iceeyyy/DSA_Answers/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/iceeyyy/DSA_Answers/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/iceeyyy/DSA_Answers/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1193,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/iceeyyy/DSA_Answers/tree/master/2625-increment-submatrices-by-one) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/iceeyyy/DSA_Answers/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/iceeyyy/DSA_Answers/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/iceeyyy/DSA_Answers/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
