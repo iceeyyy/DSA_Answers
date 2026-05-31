@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/iceeyyy/DSA_Answers/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2126-destroying-asteroids](https://github.com/iceeyyy/DSA_Answers/tree/master/2126-destroying-asteroids) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/iceeyyy/DSA_Answers/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/iceeyyy/DSA_Answers/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/iceeyyy/DSA_Answers/tree/master/2023-design-movie-rental-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/iceeyyy/DSA_Answers/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/iceeyyy/DSA_Answers/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2126-destroying-asteroids](https://github.com/iceeyyy/DSA_Answers/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/iceeyyy/DSA_Answers/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/iceeyyy/DSA_Answers/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/iceeyyy/DSA_Answers/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -1324,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/iceeyyy/DSA_Answers/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/iceeyyy/DSA_Answers/tree/master/1917-maximum-average-pass-ratio) |
+| [2126-destroying-asteroids](https://github.com/iceeyyy/DSA_Answers/tree/master/2126-destroying-asteroids) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iceeyyy/DSA_Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/iceeyyy/DSA_Answers/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/iceeyyy/DSA_Answers/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
