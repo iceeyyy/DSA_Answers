@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/iceeyyy/DSA_Answers/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/iceeyyy/DSA_Answers/tree/master/3074-apple-redistribution-into-boxes) |
+| [3161-block-placement-queries](https://github.com/iceeyyy/DSA_Answers/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/iceeyyy/DSA_Answers/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/iceeyyy/DSA_Answers/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/iceeyyy/DSA_Answers/tree/master/3194-find-words-containing-character) |
@@ -797,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/iceeyyy/DSA_Answers/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/iceeyyy/DSA_Answers/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/iceeyyy/DSA_Answers/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3161-block-placement-queries](https://github.com/iceeyyy/DSA_Answers/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/iceeyyy/DSA_Answers/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/iceeyyy/DSA_Answers/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -1410,12 +1412,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/iceeyyy/DSA_Answers/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3161-block-placement-queries](https://github.com/iceeyyy/DSA_Answers/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/iceeyyy/DSA_Answers/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/iceeyyy/DSA_Answers/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3161-block-placement-queries](https://github.com/iceeyyy/DSA_Answers/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/iceeyyy/DSA_Answers/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/iceeyyy/DSA_Answers/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3790-fruits-into-baskets-ii) |
