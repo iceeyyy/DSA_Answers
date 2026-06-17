@@ -915,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/iceeyyy/DSA_Answers/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/iceeyyy/DSA_Answers/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3614-process-string-with-special-operations-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3614-process-string-with-special-operations-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -1106,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iceeyyy/DSA_Answers/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/iceeyyy/DSA_Answers/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3614-process-string-with-special-operations-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/iceeyyy/DSA_Answers/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3790-fruits-into-baskets-ii) |
