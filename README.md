@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/iceeyyy/DSA_Answers/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/iceeyyy/DSA_Answers/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/iceeyyy/DSA_Answers/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/iceeyyy/DSA_Answers/tree/master/1833-maximum-ice-cream-bars) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/iceeyyy/DSA_Answers/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/iceeyyy/DSA_Answers/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/iceeyyy/DSA_Answers/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/iceeyyy/DSA_Answers/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/iceeyyy/DSA_Answers/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1347,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/iceeyyy/DSA_Answers/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/iceeyyy/DSA_Answers/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iceeyyy/DSA_Answers/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/iceeyyy/DSA_Answers/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/iceeyyy/DSA_Answers/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/iceeyyy/DSA_Answers/tree/master/1917-maximum-average-pass-ratio) |
@@ -1403,6 +1406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0948-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/iceeyyy/DSA_Answers/tree/master/1833-maximum-ice-cream-bars) |
 ## Combinatorics
 |  |
 | ------- |
