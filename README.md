@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/iceeyyy/DSA_Answers/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/iceeyyy/DSA_Answers/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iceeyyy/DSA_Answers/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/iceeyyy/DSA_Answers/tree/master/1197-parsing-a-boolean-expression) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iceeyyy/DSA_Answers/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/iceeyyy/DSA_Answers/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/iceeyyy/DSA_Answers/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1006-vowel-spellchecker](https://github.com/iceeyyy/DSA_Answers/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/iceeyyy/DSA_Answers/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iceeyyy/DSA_Answers/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1129-longest-string-chain](https://github.com/iceeyyy/DSA_Answers/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/iceeyyy/DSA_Answers/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/iceeyyy/DSA_Answers/tree/master/1170-shortest-common-supersequence) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iceeyyy/DSA_Answers/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/iceeyyy/DSA_Answers/tree/master/1628-count-submatrices-with-all-ones) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/iceeyyy/DSA_Answers/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/iceeyyy/DSA_Answers/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1348,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/iceeyyy/DSA_Answers/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/iceeyyy/DSA_Answers/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/iceeyyy/DSA_Answers/tree/master/1018-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iceeyyy/DSA_Answers/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/iceeyyy/DSA_Answers/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/iceeyyy/DSA_Answers/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/iceeyyy/DSA_Answers/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
