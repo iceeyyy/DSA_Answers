@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/iceeyyy/DSA_Answers/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/iceeyyy/DSA_Answers/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/iceeyyy/DSA_Answers/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/iceeyyy/DSA_Answers/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/iceeyyy/DSA_Answers/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/iceeyyy/DSA_Answers/tree/master/0759-set-intersection-size-at-least-two) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/iceeyyy/DSA_Answers/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/iceeyyy/DSA_Answers/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/iceeyyy/DSA_Answers/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/iceeyyy/DSA_Answers/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/iceeyyy/DSA_Answers/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/iceeyyy/DSA_Answers/tree/master/0645-set-mismatch) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/iceeyyy/DSA_Answers/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -994,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/iceeyyy/DSA_Answers/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/iceeyyy/DSA_Answers/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/iceeyyy/DSA_Answers/tree/master/0368-largest-divisible-subset) |
+| [0628-maximum-product-of-three-numbers](https://github.com/iceeyyy/DSA_Answers/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/iceeyyy/DSA_Answers/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/iceeyyy/DSA_Answers/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/iceeyyy/DSA_Answers/tree/master/0830-largest-triangle-area) |
