@@ -695,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/iceeyyy/DSA_Answers/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/iceeyyy/DSA_Answers/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3689-maximum-total-subarray-value-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3689-maximum-total-subarray-value-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/iceeyyy/DSA_Answers/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/iceeyyy/DSA_Answers/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/iceeyyy/DSA_Answers/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/iceeyyy/DSA_Answers/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/iceeyyy/DSA_Answers/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/iceeyyy/DSA_Answers/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/iceeyyy/DSA_Answers/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
