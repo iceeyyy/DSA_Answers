@@ -904,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/iceeyyy/DSA_Answers/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/iceeyyy/DSA_Answers/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/iceeyyy/DSA_Answers/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1927-sum-game](https://github.com/iceeyyy/DSA_Answers/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/iceeyyy/DSA_Answers/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/iceeyyy/DSA_Answers/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/iceeyyy/DSA_Answers/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1018,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/iceeyyy/DSA_Answers/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/iceeyyy/DSA_Answers/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/iceeyyy/DSA_Answers/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/iceeyyy/DSA_Answers/tree/master/1927-sum-game) |
 | [2050-count-good-numbers](https://github.com/iceeyyy/DSA_Answers/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/iceeyyy/DSA_Answers/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/iceeyyy/DSA_Answers/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -1372,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/iceeyyy/DSA_Answers/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/iceeyyy/DSA_Answers/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/iceeyyy/DSA_Answers/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/iceeyyy/DSA_Answers/tree/master/1927-sum-game) |
 | [2126-destroying-asteroids](https://github.com/iceeyyy/DSA_Answers/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/iceeyyy/DSA_Answers/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iceeyyy/DSA_Answers/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1526,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/iceeyyy/DSA_Answers/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/iceeyyy/DSA_Answers/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
