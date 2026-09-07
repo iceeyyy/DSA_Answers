@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/iceeyyy/DSA_Answers/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/iceeyyy/DSA_Answers/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0875-longest-mountain-in-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0875-longest-mountain-in-array) |
+| [0940-distinct-subsequences-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0940-distinct-subsequences-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/iceeyyy/DSA_Answers/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/iceeyyy/DSA_Answers/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/iceeyyy/DSA_Answers/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/iceeyyy/DSA_Answers/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/iceeyyy/DSA_Answers/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/iceeyyy/DSA_Answers/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/iceeyyy/DSA_Answers/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1006-vowel-spellchecker](https://github.com/iceeyyy/DSA_Answers/tree/master/1006-vowel-spellchecker) |
