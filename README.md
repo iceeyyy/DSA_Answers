@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/iceeyyy/DSA_Answers/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/iceeyyy/DSA_Answers/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/iceeyyy/DSA_Answers/tree/master/0830-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/iceeyyy/DSA_Answers/tree/master/0835-image-overlap) |
 | [0854-making-a-large-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0854-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/iceeyyy/DSA_Answers/tree/master/0874-walking-robot-simulation) |
 | [0875-longest-mountain-in-array](https://github.com/iceeyyy/DSA_Answers/tree/master/0875-longest-mountain-in-array) |
@@ -1280,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/iceeyyy/DSA_Answers/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/iceeyyy/DSA_Answers/tree/master/0794-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/iceeyyy/DSA_Answers/tree/master/0835-image-overlap) |
 | [0854-making-a-large-island](https://github.com/iceeyyy/DSA_Answers/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/iceeyyy/DSA_Answers/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/iceeyyy/DSA_Answers/tree/master/1036-rotting-oranges) |
