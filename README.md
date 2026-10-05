@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/iceeyyy/DSA_Answers/tree/master/0173-binary-search-tree-iterator) |
 | [0682-baseball-game](https://github.com/iceeyyy/DSA_Answers/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/iceeyyy/DSA_Answers/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/iceeyyy/DSA_Answers/tree/master/0856-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/iceeyyy/DSA_Answers/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/iceeyyy/DSA_Answers/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iceeyyy/DSA_Answers/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/iceeyyy/DSA_Answers/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/iceeyyy/DSA_Answers/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/iceeyyy/DSA_Answers/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/iceeyyy/DSA_Answers/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/iceeyyy/DSA_Answers/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/iceeyyy/DSA_Answers/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/iceeyyy/DSA_Answers/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1572,4 +1574,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/iceeyyy/DSA_Answers/tree/master/0796-rotate-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/iceeyyy/DSA_Answers/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
