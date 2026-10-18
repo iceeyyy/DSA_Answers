@@ -40,8 +40,7 @@ public:
 
             int idx=mp[expected];
             //swap
-            nums[i]=expected;
-            nums[idx]=cur;
+            swap(nums[i],nums[idx]);
 
             mp[expected]=i;
             mp[cur]=idx;
